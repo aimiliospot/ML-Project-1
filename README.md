@@ -7,7 +7,7 @@ The goal of this project for the Machine Learning course at NTUA is the familiar
 
 Clone the repository 
 ```bash
-  git clone https://github.com/aimiliospot/ML-Homework-1.git
+  git clone https://github.com/aimiliospot/ML-Project-1.git
 ```
 
 Create and activate virtual environment (on Windows)
